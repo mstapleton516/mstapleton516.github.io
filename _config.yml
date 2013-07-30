@@ -10,8 +10,8 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : "Michael's Magnificent Blog"
-tagline: "Magnificence Personified"
-author :
+tagline: Magnificence Personified
+author : Michael Stapleton
   name : "mstapleton516"
   email : "michael.stapleton05@gmail.com."
   github : mstapleton516
